@@ -2,7 +2,7 @@
 crypto tarot app, with spirit bars and p2p pull-based share communication on fluence.network
 
 ```
-$ cd reed
+$ cd reed-v4
 $ yarn
 $ yarn start
 ```
