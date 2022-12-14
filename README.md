@@ -53,15 +53,15 @@ TODO: reference code from frontend calls
 
 ### PocketDB
 #### matrix
-* append(key, value) ==> ("#<deck>", [...["<card>,<image>,<description>"]]
-* look(key) ==> "#<deck>"
-* everything() ==> <Void>
+* append(key, value) ==> ("#< deck >", [...["<card>,<image>,<description>"]]
+* look(key) ==> "#< deck >"
+* everything() ==> < Void >
 
 #### reviews
-* post(key, value) ==> ("<deck>:<adress>", any) // TODO: how to abstract & restrict the value==alignment
-* getReduced(session) ==> "<deck>"
-* getAll(session) ==> "<deck>"
-* duplicate(key) ==> "<deck>:<address>"
+* post(key, value) ==> ("< deck >:< adress >", any) // TODO: how to abstract & restrict the value==alignment
+* getReduced(session) ==> "< deck >"
+* getAll(session) ==> "< deck >"
+* duplicate(key) ==> "< deck >:< address >"
 
 ### roller (gorse?)
 TBD
